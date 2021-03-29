@@ -1,0 +1,9 @@
+modeler-merge-marker
+.mendix-cache/*
+MendixTestGit.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+MendixTestGit.mpr.bak
+project-settings.user.json
